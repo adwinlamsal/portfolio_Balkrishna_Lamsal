@@ -3,7 +3,7 @@ const String resume =
     'https://github.com/adwinlamsal';
 
 // Github Link
-const String gitHub = 'https://github.com/balkrishnalamsal';
+const String gitHub = 'https://github.com/adwinlamsal';
 // Github Link
 const String facebook = 'https://www.facebook.com/balkrishna.lamsal.33/';
 // Github Link
